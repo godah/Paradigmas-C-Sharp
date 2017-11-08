@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Inte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figuras", "Figuras\Figuras.csproj", "{29A38D8D-52B7-4F1E-B783-9346C58AA6D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca-Polimorfismo", "Heranca-Polimorfismo\Heranca-Polimorfismo.csproj", "{432EA3B4-2A17-4338-9C7C-828B6DD110BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{29A38D8D-52B7-4F1E-B783-9346C58AA6D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29A38D8D-52B7-4F1E-B783-9346C58AA6D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29A38D8D-52B7-4F1E-B783-9346C58AA6D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{432EA3B4-2A17-4338-9C7C-828B6DD110BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432EA3B4-2A17-4338-9C7C-828B6DD110BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432EA3B4-2A17-4338-9C7C-828B6DD110BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{432EA3B4-2A17-4338-9C7C-828B6DD110BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+C:\Users\luciano\Source\Repos\TesteVS\Heranca-Polimorfismo\bin\Debug\Heranca-Polimorfismo.exe.config
+C:\Users\luciano\Source\Repos\TesteVS\Heranca-Polimorfismo\bin\Debug\Heranca-Polimorfismo.exe
+C:\Users\luciano\Source\Repos\TesteVS\Heranca-Polimorfismo\bin\Debug\Heranca-Polimorfismo.pdb
+C:\Users\luciano\Source\Repos\TesteVS\Heranca-Polimorfismo\obj\Debug\Heranca-Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\luciano\Source\Repos\TesteVS\Heranca-Polimorfismo\obj\Debug\Heranca-Polimorfismo.exe
+C:\Users\luciano\Source\Repos\TesteVS\Heranca-Polimorfismo\obj\Debug\Heranca-Polimorfismo.pdb
+C:\Users\luciano\Source\Repos\TesteVS\Heranca-Polimorfismo\obj\Debug\Heranca-Polimorfismo.csprojResolveAssemblyReference.cache
