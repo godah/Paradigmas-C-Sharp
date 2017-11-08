@@ -46,7 +46,7 @@ namespace Heranca_Polimorfismo
 
 
             //Criando uma Lista de Veiculos Generica utilizando polimofismo
-            //neste caso o uso do typecast se torna nao viavel pela lista ser dinamica
+            //neste caso o uso do typecast para acessar os atributos exclusivos se torna nao viavel pela lista ser dinamica
             //no entanto podemos tratar com objeto.GetType()
             List<Veiculo> list = new List<Veiculo>();
             list.Add(new Aereo());

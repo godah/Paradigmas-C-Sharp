@@ -1,0 +1,7 @@
+C:\Users\luciano\Source\Repos\TesteVS\Interface\bin\Debug\Interface.exe.config
+C:\Users\luciano\Source\Repos\TesteVS\Interface\bin\Debug\Interface.exe
+C:\Users\luciano\Source\Repos\TesteVS\Interface\bin\Debug\Interface.pdb
+C:\Users\luciano\Source\Repos\TesteVS\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\luciano\Source\Repos\TesteVS\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\luciano\Source\Repos\TesteVS\Interface\obj\Debug\Interface.exe
+C:\Users\luciano\Source\Repos\TesteVS\Interface\obj\Debug\Interface.pdb

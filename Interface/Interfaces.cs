@@ -6,10 +6,6 @@ using System.Threading.Tasks;
 
 namespace Interface
 {
-    class Interfaces
-    {
-    }
-
     interface ICirculo
     {
         double calcularAreaCirculo();
