@@ -1,0 +1,7 @@
+C:\Users\luciano\Source\Repos\TesteVS\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\luciano\Source\Repos\TesteVS\Figuras\bin\Debug\Figuras.exe
+C:\Users\luciano\Source\Repos\TesteVS\Figuras\bin\Debug\Figuras.pdb
+C:\Users\luciano\Source\Repos\TesteVS\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\luciano\Source\Repos\TesteVS\Figuras\obj\Debug\Figuras.exe
+C:\Users\luciano\Source\Repos\TesteVS\Figuras\obj\Debug\Figuras.pdb
+C:\Users\luciano\Source\Repos\TesteVS\Figuras\obj\Debug\Figuras.csprojResolveAssemblyReference.cache

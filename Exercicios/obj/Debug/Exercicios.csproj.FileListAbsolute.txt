@@ -1,0 +1,6 @@
+C:\Users\luciano\Source\Repos\TesteVS\Exercicios\bin\Debug\Exercicios.exe.config
+C:\Users\luciano\Source\Repos\TesteVS\Exercicios\bin\Debug\Exercicios.exe
+C:\Users\luciano\Source\Repos\TesteVS\Exercicios\bin\Debug\Exercicios.pdb
+C:\Users\luciano\Source\Repos\TesteVS\Exercicios\obj\Debug\Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\luciano\Source\Repos\TesteVS\Exercicios\obj\Debug\Exercicios.exe
+C:\Users\luciano\Source\Repos\TesteVS\Exercicios\obj\Debug\Exercicios.pdb

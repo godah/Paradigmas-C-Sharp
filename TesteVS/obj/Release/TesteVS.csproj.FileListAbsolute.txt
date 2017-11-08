@@ -1,0 +1,6 @@
+C:\Users\luciano\Source\Repos\TesteVS\TesteVS\bin\Release\TesteVS.exe.config
+C:\Users\luciano\Source\Repos\TesteVS\TesteVS\bin\Release\TesteVS.exe
+C:\Users\luciano\Source\Repos\TesteVS\TesteVS\bin\Release\TesteVS.pdb
+C:\Users\luciano\Source\Repos\TesteVS\TesteVS\obj\Release\TesteVS.csproj.CoreCompileInputs.cache
+C:\Users\luciano\Source\Repos\TesteVS\TesteVS\obj\Release\TesteVS.exe
+C:\Users\luciano\Source\Repos\TesteVS\TesteVS\obj\Release\TesteVS.pdb
