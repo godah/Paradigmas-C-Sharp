@@ -1,0 +1,6 @@
+C:\Users\luciano\Source\Repos\TesteVS\HerancaAnimal\bin\Debug\HerancaAnimal.exe.config
+C:\Users\luciano\Source\Repos\TesteVS\HerancaAnimal\bin\Debug\HerancaAnimal.exe
+C:\Users\luciano\Source\Repos\TesteVS\HerancaAnimal\bin\Debug\HerancaAnimal.pdb
+C:\Users\luciano\Source\Repos\TesteVS\HerancaAnimal\obj\Debug\HerancaAnimal.csproj.CoreCompileInputs.cache
+C:\Users\luciano\Source\Repos\TesteVS\HerancaAnimal\obj\Debug\HerancaAnimal.exe
+C:\Users\luciano\Source\Repos\TesteVS\HerancaAnimal\obj\Debug\HerancaAnimal.pdb
